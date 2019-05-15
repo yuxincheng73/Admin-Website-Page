@@ -1,0 +1,18 @@
+table {
+  tbody {
+    tr {
+      &:hover {
+        td.actions {
+          // opacity: 1;
+          // visibility: visible;
+        }
+      }
+    }
+    td.actions {
+      // position: absolute;
+      // right: -55px;
+      // opacity: 0;
+      // visibility: hidden;
+    }
+  }
+}
